@@ -1,7 +1,54 @@
 {
-  "license_keys": {
-    "X1A9F7C8Y3Q0T6G5K2L4P8M7N5": "U2FsdGVkX1+7vF5XlJSUqNJb1cZMeML6DhQqZ7xWV8g2l9Tlq+ls4FsHHJmyI3fP",
-    "J3K9L5T8Q2B1Z4X6N7M0V3F1Y8": "U2FsdGVkX1+sG3fGHs1d1GRROi6WqadDkdp4OHKHVU0PHe0xXb7b2+aT5X+5ddW6",
-    "L8Q2V5K7N1X3F9P0B4G6M7Y3Z1": "U2FsdGVkX1+bpH0Xjl8gBaVRprbA2lzzw5b2Ih2DhtbLpZvW19OQGyksfyvK3ccL",
-  }
+  "keys": [
+    {
+      "key": "2a9fe3f278e2bb5572acabd7f0cd7171",
+      "expires": "2024-12-31T23:59:59",
+      "created": "2024-11-01T00:00:00"
+    },
+    {
+      "key": "license-1-xyza-1234-5678",
+      "expires": "2025-01-15T23:59:59",
+      "created": "2024-11-05T00:00:00"
+    },
+    {
+      "key": "license-2-abcd-1234-efgh-5678",
+      "expires": "2025-03-01T23:59:59",
+      "created": "2024-10-20T00:00:00"
+    },
+    {
+      "key": "license-3-lmno-9876-5432-pqrs",
+      "expires": "2025-06-01T23:59:59",
+      "created": "2024-09-15T00:00:00"
+    },
+    {
+      "key": "license-4-xyz-4321-abcd-9876",
+      "expires": "2024-11-30T23:59:59",
+      "created": "2024-08-10T00:00:00"
+    },
+    {
+      "key": "license-5-uvwx-5678-abcd-1234",
+      "expires": "2025-05-15T23:59:59",
+      "created": "2024-09-01T00:00:00"
+    },
+    {
+      "key": "license-6-mnop-8765-4321-abcd",
+      "expires": "2024-10-31T23:59:59",
+      "created": "2024-07-20T00:00:00"
+    },
+    {
+      "key": "license-7-ijkl-1234-9876-uvwx",
+      "expires": "2025-07-01T23:59:59",
+      "created": "2024-06-10T00:00:00"
+    },
+    {
+      "key": "license-8-pqrs-5678-abcd-8765",
+      "expires": "2024-12-15T23:59:59",
+      "created": "2024-09-25T00:00:00"
+    },
+    {
+      "key": "license-9-ghij-4321-efgh-1234",
+      "expires": "2024-09-30T23:59:59",
+      "created": "2024-05-30T00:00:00"
+    }
+  ]
 }
